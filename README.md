@@ -1,3 +1,4 @@
+![image](https://github.com/IFDUAN1997/SIGS-2023-All-Star/blob/main/%E6%88%98%E9%98%9Flogo/Open-AI.png)
 # SIGS-2023-All-Star
 2023年清华大学深圳国际研究生院英雄联盟季中全明星赛（以下称全明星赛）
 
